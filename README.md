@@ -6,13 +6,10 @@ This project aims to explain how to use ParaView within JupyterLab using a local
 
 You need to use the same python version as ParaView for your environment. 
 
-| -------- | ------ |
 | ParaView | Python |
 | -------- | ------ |
 | 5.11     | 3.9.x  |
-| -------- | ------ |
 | 5.12     | 3.10.x |
-| -------- | ------ |
 
 ```
 python3.10 -m venv .venv
