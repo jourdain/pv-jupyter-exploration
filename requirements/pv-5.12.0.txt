@@ -1,0 +1,10 @@
+jupyterlab>3,<5
+# trame-jupyter-extension>=2 # DO NOT INSTALL until PV use latest wslink
+trame
+trame-vtk
+trame-vuetify
+
+# Force version to match ParaView
+typing_extensions==4.9.0
+wslink==1.12.4
+attrs==23.2.0

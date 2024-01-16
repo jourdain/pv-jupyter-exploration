@@ -1,0 +1,4 @@
+jupyterlab
+trame
+trame-vtk
+trame-vuetify
