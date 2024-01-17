@@ -37,3 +37,7 @@ source activate-mac.sh /Applications/ParaView-5.12.0-RC2.app
 ```
 jupyter lab
 ```
+
+## License
+
+Distributed under the Apache-2.0 license. You can redistribute it and/or modify it under the terms described in the License.txt file.
